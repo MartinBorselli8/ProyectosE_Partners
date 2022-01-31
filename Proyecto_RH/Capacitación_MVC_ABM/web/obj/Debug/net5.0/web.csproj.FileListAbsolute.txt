@@ -150,7 +150,6 @@ C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Cliente\Agregar.cshtml.g.cs
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Cliente\Consulta.cshtml.g.cs
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Cliente\Editar.cshtml.g.cs
-C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -164,3 +163,7 @@ C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\web.pdb
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\web.genruntimeconfig.cache
 C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\web.csproj.CopyComplete
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\FichaSepelio\Agregar.cshtml.g.cs
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\FichaSepelio\Consulta.cshtml.g.cs
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\web\obj\Debug\net5.0\Razor\Views\FichaSepelio\Editar.cshtml.g.cs

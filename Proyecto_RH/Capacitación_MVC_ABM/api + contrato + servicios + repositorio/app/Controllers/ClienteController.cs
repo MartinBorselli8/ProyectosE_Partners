@@ -32,7 +32,7 @@ namespace capacitacion.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] SolicitudCrear solicitud)
+        public async Task<IActionResult> Post([FromQuery] SolicitudCrear solicitud)
         {
             var respuesta_crear = await _servicioCliente.Crear(solicitud);
             return Ok(respuesta_crear);

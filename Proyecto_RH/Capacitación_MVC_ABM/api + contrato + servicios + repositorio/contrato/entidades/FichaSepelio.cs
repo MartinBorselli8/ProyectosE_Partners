@@ -5,6 +5,7 @@ namespace contrato.entidades
 {
     public class FichaSepelio
     {
+        public int id {get; set;}
         // [Required]
         // [MinLength(3)]
         public string NombreExtinto { get; set; }
@@ -78,7 +79,7 @@ namespace contrato.entidades
         // [Required] 
         public float GastosMunicipalidad {get; set;}
         // [Required] 
-        public float GastosTranslado {get; set;}
+        public float GastosTraslado {get; set;}
         // [Required] 
         public float GastosReduccion {get; set;}
         // [Required] 

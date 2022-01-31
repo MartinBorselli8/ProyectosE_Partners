@@ -20,9 +20,7 @@ namespace servicio
         {
             this._repositorioFichaSepelio = repositorioFichaSepelio;
         }
-
-
-
+        
         public async Task<RespuestaCrear> Crear(SolicitudCrear solicitud)
         {
             var respuesta = new RespuestaCrear();
@@ -87,7 +85,7 @@ namespace servicio
                     GastosIglesia=c.GastosIglesia,
                     GastosRadio=c.GastosRadio,
                     GastosMunicipalidad=c.GastosMunicipalidad,
-                    GastosTranslado=c.GastosTranslado,
+                    GastosTraslado=c.GastosTraslado,
                     GastosReduccion=c.GastosReduccion,
                     GastosReinscripcion=c.GastosReinscripcion,
                     GastosNombreDoctor=c.GastosNombreDoctor,
@@ -147,7 +145,7 @@ namespace servicio
                 GastosIglesia=c.GastosIglesia,
                 GastosRadio=c.GastosRadio,
                 GastosMunicipalidad=c.GastosMunicipalidad,
-                GastosTranslado=c.GastosTranslado,
+                GastosTraslado=c.GastosTraslado,
                 GastosReduccion=c.GastosReduccion,
                 GastosReinscripcion=c.GastosReinscripcion,
                 GastosNombreDoctor=c.GastosNombreDoctor,
@@ -213,7 +211,7 @@ namespace servicio
             ficha.GastosIglesia=solicitud.GastosIglesia;
             ficha.GastosRadio=solicitud.GastosRadio;
             ficha.GastosMunicipalidad=solicitud.GastosMunicipalidad;
-            ficha.GastosTranslado=solicitud.GastosTranslado;
+            ficha.GastosTraslado=solicitud.GastosTraslado;
             ficha.GastosReduccion=solicitud.GastosReduccion;
             ficha.GastosReinscripcion=solicitud.GastosReinscripcion;
             ficha.GastosNombreDoctor=solicitud.GastosNombreDoctor;
@@ -285,7 +283,7 @@ namespace servicio
             if(solicitud.GastosIglesia > 0) ficha.GastosIglesia = solicitud.GastosIglesia;
             if(solicitud.GastosRadio > 0) ficha.GastosRadio = solicitud.GastosRadio;
             if(solicitud.GastosMunicipalidad > 0) ficha.GastosMunicipalidad = solicitud.GastosMunicipalidad;
-            if(solicitud.GastosTranslado > 0) ficha.GastosTranslado = solicitud.GastosTranslado;
+            if(solicitud.GastosTraslado > 0) ficha.GastosTraslado = solicitud.GastosTraslado;
             if(solicitud.GastosReduccion > 0) ficha.GastosReduccion = solicitud.GastosReduccion;
             if(solicitud.GastosReinscripcion > 0) ficha.GastosReinscripcion = solicitud.GastosReinscripcion;
             if(!string.IsNullOrEmpty(solicitud.GastosNombreDoctor)) ficha.GastosNombreDoctor = solicitud.GastosNombreDoctor;
@@ -339,7 +337,7 @@ namespace servicio
             fichaSepelio.GastosIglesia=fichaNueva.GastosIglesia;
             fichaSepelio.GastosRadio=fichaNueva.GastosRadio;
             fichaSepelio.GastosMunicipalidad=fichaNueva.GastosMunicipalidad;
-            fichaSepelio.GastosTranslado=fichaNueva.GastosTranslado;
+            fichaSepelio.GastosTraslado=fichaNueva.GastosTraslado;
             fichaSepelio.GastosReduccion=fichaNueva.GastosReduccion;
             fichaSepelio.GastosReinscripcion=fichaNueva.GastosReinscripcion;
             fichaSepelio.GastosNombreDoctor=fichaNueva.GastosNombreDoctor;

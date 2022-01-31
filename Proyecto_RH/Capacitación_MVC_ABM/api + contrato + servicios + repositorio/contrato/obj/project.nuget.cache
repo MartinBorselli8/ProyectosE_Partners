@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGYNoHs2mrdRf6eTIl/PJsaF6b1/wJe5yzFnbKjkJdus8TmNU8K2SmsS83r01GdRuoZEpEGS6U8ZmG4qCUbB4g==",
+  "dgSpecHash": "80aVUItN0fZp+4XWQUDhjUSMLkdo2JW17KeEYIv4hAyo6Aim/HFuUJFexLtSfu2o/lRqKK2hDyjeCIp7ida0Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

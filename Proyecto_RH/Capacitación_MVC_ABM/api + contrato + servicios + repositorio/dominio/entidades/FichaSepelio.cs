@@ -39,7 +39,7 @@ namespace dominio.entidades
         public float GastosIglesia {get; set;}
         public float GastosRadio {get; set;}
         public float GastosMunicipalidad {get; set;}
-        public float GastosTranslado {get; set;}
+        public float GastosTraslado {get; set;}
         public float GastosReduccion {get; set;}
         public float GastosReinscripcion {get; set;}
         public string GastosNombreDoctor {get; set;}

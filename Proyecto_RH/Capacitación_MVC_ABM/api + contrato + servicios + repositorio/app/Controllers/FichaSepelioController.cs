@@ -4,6 +4,9 @@ using contrato.servicios.fichaSepelio;
 using contrato.servicios.fichaSepelio.solicitudes;
 using Microsoft.AspNetCore.Mvc;
 
+//Pc DESKTOP-QDB1C78
+//notebook DESKTOP-0AQSGQF
+
 namespace capacitacion.Controllers
 {
     [ApiController]

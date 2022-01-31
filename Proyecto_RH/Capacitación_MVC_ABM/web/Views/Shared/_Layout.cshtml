@@ -7,6 +7,8 @@
     <title>@ViewData["Title"] - web</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet"/> 
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 </head>
@@ -28,6 +30,10 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Cliente"
                                 asp-action="Consulta">Clientes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="FichaSepelio"
+                            asp-action="Agregar">Fichas</a>
                         </li>
                     </ul>
                 </div>

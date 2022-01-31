@@ -1,0 +1,445 @@
+@{
+    ViewData["Title"] = "Agregar Ficha";
+}
+
+<h2>@ViewData["Title"].</h2>
+<p>Complete el siguiente formulario para agregar una nueva ficha:</p>
+<hr>
+<form>
+
+    <div id="form-FechaFallecimiento class="form-group">
+        <label for="exampleFormControlInput1">Fecha Fallecimiento: </label>
+        <input id="FechaFallecimiento" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="AAAA-DD-MM">
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Nombre del extinto/a:</label>
+        <input id="NombreExtinto" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese el nombre del extinto">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Apellido del extinto: </label>
+            <input id="ApellidoExtinto" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el apellido del extinto">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">DNI del extinto:</label>
+            <input id="DNIExtinto" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el DNI del extinto">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Fecha de nacimiento del extinto:</label>
+            <input id="FechaNacimientoExtinto" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="AAAA-DD-MM">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">Edad: </label>
+            <input id="EdadExtinto" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese la edad">
+        </div>
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">Hora del Fallecimiento:</label>
+            <input id="HoraFallecimiento" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese la hora de fallecimiento">
+        </div>
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">Lugar del fallecimiento: </label>
+            <input id="LugarFallecimiento" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el lugar de fallecimiento">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Doctor que lo antendia: </label>
+            <input id="Doctor" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el nombre del doctor">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Clinica: </label>
+            <input id="Clinica" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el nombre de la clinica">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Casa de duelo:</label>
+            <input id="CasaDeDuelo" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el nombre de la casa de duelo">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Barrio:</label>
+            <input id="Barrio" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el nombre del barrio">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Iglesia del sepelio:</label>
+            <input id="Iglesia" type="text" required  placeholder="Ingrese el nombre de la iglesia" class="form-control">
+        </div>
+        <div class="col-xs-6">
+            
+            <label for="exampleFormControlInput1">Hora del sepelio:</label>
+            <input id="Hora" type="text" required class="form-control"
+                placeholder="Ingrese la hora del sepelio">
+        </div>
+    </div>
+
+    <div id="form-Servicio" class="form-group">
+        <label for="exampleFormControlInput1">Servicio contratado:</label>
+        <input id="Servicio" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese el servicio Contratado">
+    </div>
+
+    <div id="form-Nota" class="form-group">
+        <label for="exampleFormControlInput1">Nota:</label>
+        <input id="Nota" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese una Nota">
+    </div>
+
+    <div class="row">
+        <div class="col-xs-3">
+            <label for="exampleFormControlInput1">Ataud Tipo:</label>
+            <input id="TipoAtaud" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el tipo de ataud">
+        </div>
+        <div class="col-xs-3">
+            <label for="exampleFormControlInput1">Cementerio:</label>
+            <input id="Cementerio" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el cementerio">
+        </div>
+        <div class="col-xs-3">
+            <label for="exampleFormControlImput1">Sector:</label>
+            <input id="Sector" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el sector">
+        </div>
+        <div class="col-xs-3">
+            <label for="exampleFormControlInput1">N°:</label>
+            <input id="Numero" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Numero">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-3">
+            <div id="form-EstadoCivil" class="form-group">
+                <label for="exampleFormControlSelect1">Seleccione un estado Civil</label>
+                <select id="EstadoCivil" required type="text" class="form-control" id="exampleFormControlSelect1">
+                    <option>A</option>
+                    <option>PENSIÓN</option>
+                    <option>VIUDO/A</option>
+                    <option>SOLTERO/A</option>
+                    <option>DIVORCIADO/A</option>
+
+                </select>
+            </div>
+        </div>
+    </div>
+    
+    <hr>
+    <b>Datos sobre la persona que contrato el servicio: </b>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Nombre del familiar:</label>
+            <input id="NombreFamiliar" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el nombre del familiar">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Apellido del familiar:</label>
+            <input id="ApellidoFamiliar" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el Apellido del familiar">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Titular de facturacion:</label>
+            <input id="TitularDeFacturacion" type="text" required  placeholder="Titular de Facturacion" class="form-control">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">DNI:</label>
+            <input id="DNIFamiliar" type="text" required placeholder="DNI:"  class="form-control">
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Telefono del familiar:</label>
+            <input id="TelefonoFamiliar" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el telefono del familiar">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">E-mail del familiar:</label>
+            <input id="EmailFamiliar" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="nombre@apellido.com">
+        </div>
+    </div>
+    
+    <div id="form-DomicilioFamiliar" class="form-group">
+        <label for="exampleFormControlInput1">Domicilio del familiar:</label>
+        <input id="DomicilioFamiliar" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese el Domicilio del familiar">   
+    </div>
+
+    <div id="form-NotaFamiliar" class="form-group">
+        <label for="exampleFormControlInput1">Nota:</label>
+        <input id="NotaFamiliar" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese una Nota">   
+    </div>
+    <hr>
+    <b>Gastos: </b>
+    
+    <div class="row">
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">Diarios: </label>
+            <input id="GastosDiarios" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">Iglesia: </label>
+            <input id="GastosIglesia" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">Radio: </label>
+            <input id="GastosRadio" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Municipalidad: </label>
+            <input id="GastosMunicipalidad" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Flores: </label>
+            <input id="GastosFlores" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Traslado: </label>
+            <input id="GastosTraslado" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Reducción: </label>
+            <input id="GastosReduccion" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Reinscripción: </label>
+            <input id="GastosReinscripcion" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Dr: </label>
+            <input id="GastosNombreDoctor" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="Ingrese el nombre del Doctor">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Gastos Doctor: </label>
+            <input id="GastosDoctor" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Escribano: </label>
+            <input id="GastosEscribano" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Traslado: </label>
+            <input id="GastosTraslado2" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Cremación: </label>
+            <input id="GastosCremacion" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <hr>
+    <div class="row">
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Total Cta. Cte.: </label>
+            <input id="TotalCtaCte" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+        <div class="col-xs-6">
+            <label for="exampleFormControlInput1">Total Contado: </label>
+            <input id="TotalContado" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="$">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">C: </label>
+            <input id="FechaC" required type="text" class="form-control" id="exampleFormControlInput1"
+                placeholder="AAAA-DD-MM">
+        </div>
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">A: </label>
+            <input id="FechaA" required type="text" class="form-control" id="exampleFormControlInput1" placeholder="AAAA-DD-MM">
+        </div>
+        <div class="col-xs-4">
+            <label for="exampleFormControlInput1">I: </label>
+            <input id="FechaI" required type="text" class="form-control" id="exampleFormControlInput1"placeholder="AAAA-DD-MM">
+        </div>
+    </div>
+
+    <button id="btnSubmit" type="submit" class="btn btn-primary">Confirmar Ficha</button>
+    
+</form>
+<hr>
+<br>
+<div id="errores"></div>
+
+@section scripts {
+<script>
+
+    $("#btnSubmit").click((e) => postFicha(e))
+
+    const toastPrompt = () => {
+
+        const Toast = Swal.mixin({
+            toast: true,
+            position: 'top-end',
+            showConfirmButton: false,
+            timer: 1000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+                toast.addEventListener('mouseenter', Swal.stopTimer)
+                toast.addEventListener('mouseleave', Swal.resumeTimer)
+            }
+        })
+
+        Toast.fire({
+            icon: 'success',
+            title: 'Ficha cargada correctamente',
+        })
+    }
+
+    const mostrarAlertas = (respuesta) => {
+        $(".alert").remove();
+
+        if (respuesta.responseJSON.errors.NombreExtinto) {
+            for (var i = 0; i < respuesta.responseJSON.errors.NombreExtinto.length; i++) {
+                $("#errores").append(`<div  class="alert alert-danger" role="alert">
+                        ${respuesta.responseJSON.errors.NombreExtinto[i]}</div>`)
+            }
+        }
+        if (respuesta.responseJSON.errors.ApellidoExtinto) {
+            for (var i = 0; i < respuesta.responseJSON.errors.ApellidoExtinto.length; i++) {
+                $("#errores").append(`<div  class="alert alert-danger" role="alert">
+                        ${respuesta.responseJSON.errors.ApellidoExtinto[i]}</div>`)
+            }
+        }
+    }
+
+    const postFicha = (e) => {
+        e.preventDefault();
+        const EstadoCivil= $("#EstadoCivil").val()
+        const FechaFallecimiento = Date.parse($("#FechaFallecimiento").val())
+        const NombreExtinto = $("#NombreExtinto").val()
+        const ApellidoExtinto = $("#ApellidoExtinto").val()
+        const DNIExtinto = parseInt($("#DNIExtinto").val())
+        const FechaNacimientoExtinto = Date.parse($("#FechaNacimientoExtinto").val())
+        const EdadExtinto = parseInt($("#EdadExtinto").val())
+        const HoraFallecimiento = $("#HoraFallecimiento").val()
+        const LugarFallecimiento = $("#LugarFallecimiento").val()
+        const Doctor = $("#Doctor").val()
+        const Clinica = $("#Clinica").val()
+        const Barrio = $("#Barrio").val()
+        const CasaDeDuelo= $("#CasaDeDuelo").val()
+        const Iglesia = $("#Iglesia").val()
+        const Hora = $("#Hora").val()
+        const Servicio = $("#Servicio").val()
+        const Nota = $("#Nota").val()
+        const TipoAtaud = $("#TipoAtaud").val()
+        const Cementerio = $("#Cementerio").val()
+        const Sector = $("#Sector").val()
+        const Numero = parseInt($("#Numero").val())
+        const NombreFamiliar = $("#NombreFamiliar").val()
+        const ApellidoFamiliar = $("#ApellidoFamiliar").val()
+        const TitularDeFacturacion = $("#TitularDeFacturacion").val()
+        const DNIFamiliar = parseInt($("#DNIFamiliar").val())
+        const TelefonoFamiliar = $("#TelefonoFamiliar").val()
+        const EmailFamiliar = $("#EmailFamiliar").val()
+        const DomicilioFamiliar = $("#DomicilioFamiliar").val()
+        const NotaFamiliar = $("#NotaFamiliar").val()
+        const GastosDiarios = parseFloat($("#GastosDiarios").val())
+        const GastosIglesia = parseFloat($("#GastosIglesia").val())
+        const GastosRadio = parseFloat($("#GastosRadio").val())
+        const GastosMunicipalidad = parseFloat($("#GastosMunicipalidad").val())
+        const GastosFlores = parseFloat($("#GastosFlores").val())
+        const GastosTraslado = parseFloat($("#GastosTraslado").val())
+        const GastosReduccion = parseFloat($("#GastosReduccion").val())
+        const GastosReinscripcion = parseFloat($("#GastosReinscripcion").val())
+        const GastosNombreDoctor = $("#GastosNombreDoctor").val()
+        const GastosDoctor = parseFloat($("#GastosDoctor").val())
+        const GastosEscribano = parseFloat($("#GastosEscribano").val())
+        const GastosTraslado2 = parseFloat($("#GastosTraslado2").val())
+        const GastosCremacion = parseFloat($("#GastosCremacion").val())
+        const TotalCtaCte = parseFloat($("#TotalCtaCte").val())
+        const TotalContado = parseFloat($("#TotalContado").val())
+        const FechaA = Date.parse($("#FechaA").val())
+        const FechaC = Date.parse($("#FechaC").val())
+        const FechaI = Date.parse($("#FechaI").val())
+        let datos = { FechaFallecimiento, ApellidoExtinto, DNIExtinto,
+        FechaNacimientoExtinto, EdadExtinto, HoraFallecimiento, LugarFallecimiento, Doctor,
+        Clinica, Barrio, CasaDeDuelo, Iglesia, Hora, Servicio, Nota, TipoAtaud, Cementerio,
+        Sector, Numero, NombreFamiliar, ApellidoFamiliar, TitularDeFacturacion, DNIFamiliar, 
+        TelefonoFamiliar, EmailFamiliar, DomicilioFamiliar, NotaFamiliar, GastosDiarios, GastosIglesia,
+        GastosRadio, GastosMunicipalidad, GastosFlores, GastosTraslado, GastosReduccion,
+        GastosReinscripcion, GastosNombreDoctor, GastosDoctor, GastosEscribano, GastosTraslado2,
+        GastosCremacion, TotalCtaCte, TotalContado, FechaA, FechaC, FechaI }
+
+        $.ajax({
+            url: "https://localhost:5001/api/FichaSepelio",
+            type: 'POST',
+            data:
+                JSON.stringify(datos),
+            contentType: "application/json",
+        }).done(function (respuesta) {
+            $("#btnSubmit").prop("disabled", true)
+            toastPrompt()
+            setTimeout(function () { location.href = "consulta" }, 1000);
+         }).fail((respuesta) => mostrarAlertas(respuesta));
+    }
+
+</script>
+}

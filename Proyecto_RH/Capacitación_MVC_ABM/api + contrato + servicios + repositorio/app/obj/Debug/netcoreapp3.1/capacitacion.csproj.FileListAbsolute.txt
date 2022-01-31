@@ -1,0 +1,305 @@
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\scopedcss\bundle\capacitacion.styles.css
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\scopedcss\bundle\capacitacion.styles.css
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\bin\Debug\netcoreapp3.1\dominio.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\scopedcss\bundle\capacitacion.styles.css
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache

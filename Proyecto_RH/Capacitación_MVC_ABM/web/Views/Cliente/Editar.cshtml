@@ -1,0 +1,150 @@
+@{
+    ViewData["Title"] = "Editar cliente";
+}
+
+
+
+
+<h2>@ViewData["Title"].</h2>
+<p>Edite el siguiente formulario para actualizar el cliente:</p>
+
+<form>
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Nombre</label>
+        <input id="nombre" required type="text" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese su Nombre">
+
+    </div>
+    <div id="form-apellido" class="form-group">
+        <label for="exampleFormControlInput1">Apellido</label>
+        <input id="apellido" required type="texto" class="form-control" id="exampleFormControlInput1"
+            placeholder="Ingrese su apellido">
+    </div>
+    <div id="form-correo" class="form-group">
+        <label for="exampleFormControlInput1">Correo</label>
+        <input id="correo" required type="email" class="form-control" id="exampleFormControlInput1"
+            placeholder="nombre@correo.com">
+    </div>
+    <div id="form-estado" class="form-group">
+        <label for="exampleFormControlSelect1">Seleccione un estado</label>
+        <select id="estado" required class="form-control" id="exampleFormControlSelect1">
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+
+        </select>
+    </div>
+
+    <button id="btnSubmit" type="submit" class="btn btn-primary">Actualizar</button>
+
+</form>
+<br>
+<div id="errores"></div>
+
+
+
+
+@section scripts {
+<script>
+
+    $("#btnSubmit").click((e) => putCliente(e))
+
+    const putCliente = (e) => {
+        e.preventDefault();
+        const nombre = $("#nombre").val()
+        const apellido = $("#apellido").val()
+        const correo = $("#correo").val()
+        const estado = parseInt($("#estado").val())
+
+        let datos = { nombre, apellido, correo, estado }
+
+        $.ajax({
+            url: "https://localhost:5001/api/Cliente/" + @ViewBag.Id,
+            type: "PUT",
+            data:
+                JSON.stringify(datos),
+            contentType: "application/json",
+        }).done(function (respuesta) {
+            $("#btnSubmit").prop("disabled", true)
+            toastPrompt()
+            setTimeout(function () { location.href = "consulta" }, 1000);
+        }).fail((respuesta) => mostrarAlertas(respuesta));
+    }
+
+    const mostrarAlertas = (respuesta) => {
+        $(".alert").remove();
+
+        if (respuesta.responseJSON.errors.Nombre) {
+            for (var i = 0; i < respuesta.responseJSON.errors.Nombre.length; i++) {
+                $("#errores").append(`<div  class="alert alert-danger" role="alert">
+                        ${respuesta.responseJSON.errors.Nombre[i]}</div>`)
+            }
+        }
+        if (respuesta.responseJSON.errors.Apellido) {
+            for (var i = 0; i < respuesta.responseJSON.errors.Apellido.length; i++) {
+                $("#errores").append(`<div  class="alert alert-danger" role="alert">
+                        ${respuesta.responseJSON.errors.Apellido[i]}</div>`)
+            }
+        }
+        if (respuesta.responseJSON.errors.Correo) {
+            for (var i = 0; i < respuesta.responseJSON.errors.Correo.length; i++) {
+
+                $("#errores").append(`<div  class="alert alert-danger" role="alert">
+            ${respuesta.responseJSON.errors.Correo[0]}</div>`);
+            }
+        }
+        if (respuesta.responseJSON.errors.Estado) {
+            for (var i = 0; i < respuesta.responseJSON.errors.Estado.length; i++) {
+
+                $("#errores").append(`<div  class="alert alert-danger" role="alert">
+            ${respuesta.responseJSON.errors.Estado[0]}</div>`);
+            }
+        }
+
+    }
+
+    $("#btnSubmit").click((e) => postCliente(e))
+
+    const toastPrompt = () => {
+
+        const Toast = Swal.mixin({
+            toast: true,
+            position: 'top-end',
+            showConfirmButton: false,
+            timer: 1000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+                toast.addEventListener('mouseenter', Swal.stopTimer)
+                toast.addEventListener('mouseleave', Swal.resumeTimer)
+            }
+        })
+
+        Toast.fire({
+            icon: 'success',
+            title: 'Cliente actualizado',
+
+        })
+    }
+
+    const buscarClientes = () => {
+
+        $.ajax({
+            url: "https://localhost:5001/api/Cliente/?id=" + @ViewBag.Id ,
+            method: 'GET'
+        }).done(function (respuesta) {
+            console.log(respuesta)
+            $("#nombre").val(respuesta[0].nombre);
+            $("#apellido").val(respuesta[0].apellido);
+            $("#correo").val(respuesta[0].correo);
+            $("#estado").val(respuesta[0].estado);
+        }).fail(function () {
+            console.log("ERROR!");
+        });
+
+
+    }
+    $(document).ready(buscarClientes());
+
+</script>
+}

@@ -1,0 +1,69 @@
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.pdb
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+D:\Stuff\Capacitacion\Capacitacion\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.pdb
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Sergio\source\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.dll
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.pdb
+C:\Users\Usuario\Documents\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete

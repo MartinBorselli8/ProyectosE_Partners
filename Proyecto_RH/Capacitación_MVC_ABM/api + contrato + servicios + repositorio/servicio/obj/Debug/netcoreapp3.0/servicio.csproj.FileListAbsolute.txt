@@ -82,3 +82,17 @@ C:\Users\Usuario\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_
 C:\Users\Usuario\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
 C:\Users\Usuario\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.dll
 C:\Users\Usuario\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.dll
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\bin\Debug\netcoreapp3.0\dominio.pdb
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Administrador\OneDrive\Documents\GitHub\ProyectosE_Partners\Proyecto_RH\Capacitación_MVC_ABM\api + contrato + servicios + repositorio\servicio\obj\Debug\netcoreapp3.0\servicio.pdb

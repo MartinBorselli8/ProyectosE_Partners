@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jOHqmQkBdRRfsLTHLYMpROHP6NogbW301JVpJijFJD2k0pYsKmDylaZ1ssU8Ktt+TpjG+sBApIoT8qYgsXE6uQ==",
+  "dgSpecHash": "BGzkaXUOAaT0LkQvu5tSOArEsOlAcHeRXjywRh1InqAiyryOY2KVQAX+7R0rg26Cl5HmLz8I9j8AWfEmIq8IAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\capacitacion.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\capacitacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

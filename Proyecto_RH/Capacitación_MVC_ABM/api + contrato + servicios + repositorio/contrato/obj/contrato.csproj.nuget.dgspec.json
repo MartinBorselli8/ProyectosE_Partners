@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
         "projectName": "contrato",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

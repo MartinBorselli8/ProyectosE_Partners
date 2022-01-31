@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/w+oRk6MCqqIDv9uvTWScIrfWGm/SpmauumksnRCxMnJFtil7kpWG44mEeZxP/G5orBmxERa4MKaxuWn4/dUig==",
+  "dgSpecHash": "80aVUItN0fZp+4XWQUDhjUSMLkdo2JW17KeEYIv4hAyo6Aim/HFuUJFexLtSfu2o/lRqKK2hDyjeCIp7ida0Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",

@@ -8,7 +8,7 @@ namespace contrato.servicios.fichaSepelio.solicitudes
         public string NombreExtinto { get; set; }
         public string ApellidoExtinto { get; set; }
         public int DNIExtinto {get; set;}
-        public DateTime FechaNacimientoExtinto {get; set;}
+        public DateTime? FechaNacimientoExtinto {get; set;}
         public int EdadExtinto {get; set;}
         public string EstadoCivil {get; set;}
         public string Doctor {get; set;}
@@ -50,8 +50,8 @@ namespace contrato.servicios.fichaSepelio.solicitudes
         public float GastosFlores {get; set;}
         public float TotalCtaCte {get; set;}
         public float TotalContado {get; set;}
-        public DateTime FechaC {get; set;}
-        public DateTime FechaA {get; set;}
-        public DateTime FechaI {get; set;}
+        public DateTime? FechaC {get; set;}
+        public DateTime? FechaA {get; set;}
+        public DateTime? FechaI {get; set;}
     }
 }

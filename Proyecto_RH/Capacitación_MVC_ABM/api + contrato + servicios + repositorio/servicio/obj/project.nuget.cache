@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c/RHrGPXGC0DX53jn1MOpjNsv8XyleuxpFjv4wf19Qe75FuBvw48nw3T9+qqHa5DjB4oaplnSJOCjiHrbOnUCQ==",
+  "dgSpecHash": "KV1oFlUpe4LWwyYDPPgfKQpteO/XWIQuB5slht0YMJsquoF1LI1B++quA8oki5Y/qJXpZZCo+fnn/4GaJr4tGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\servicio\\servicio.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\servicio\\servicio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

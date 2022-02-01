@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Clientes";
+    ViewData["Title"] = "Fichas";
 }
 
 
@@ -27,9 +27,6 @@
         <input type="date" class="form-control" id="FechaFallecimiento" aria-describedby="emailHelp"
             placeholder="Ingrese una fecha">
    </div>
-
-
-
 <br>
 
 </form>
@@ -44,8 +41,8 @@
     <thead>
         <tr>
             <th scope="col">#</th>
-            <th scope="col">Nombre</th>
-            <th scope="col">Apellido</th>
+            <th scope="col">Nombre extinto</th>
+            <th scope="col">Apellido extinto</th>
             <th scope="col">FechaFallecimiento</th>
             <th scope="col">Acciones</th>
         </tr>
@@ -70,10 +67,9 @@
     const renderTabla = (value)=>{
             $("#cuerpo-tabla").append(`<tr>        
                 <th scope="row">${value.id}</th>
-                 <td>${value.nombre}</td> 
-                 <td>${value.apellido}</td> 
-                 <td>${value.estado}</td> 
-                 <td>${value.correo}</td> 
+                 <td>${value.NombreExinto}</td> 
+                 <td>${value.ApellidoExtinto}</td> 
+                 <td>${value.FechaFallecimiento}</td> 
                 <td>
                 <button onclick="eliminar(${value.id});" id="btnEliminar"  class="btn btn-danger">Eliminar</button>
                     <a id="btnEditar"  class="btn btn-info" href="/Cliente/Editar?id=${value.id}" >Editar</a>
@@ -81,9 +77,9 @@
                 </tr>`);
     }
 
-    const deleteCliente = (id)=>{
+    const deleteFicha = (id)=>{
             $.ajax({
-                    url: "https://localhost:5001/api/Cliente/" + id,
+                    url: "https://localhost:5001/api/FichaSepelio" + id,
                     method: 'DELETE'
                 }).done(function (respuesta) {
                     $.each(respuesta, function (index, value) {
@@ -107,7 +103,7 @@
             if (result.isConfirmed) {
                 
                 limpiarTabla();
-                deleteCliente(id);
+                deleteFicha(id);
                 Swal.fire(
                     '¡Eliminado!',
                     'El registro se eliminó cone éxito.',
@@ -120,23 +116,16 @@
 
 
     }
-    const buscarClientes = (e)=>{
+    const buscarFichas = (e)=>{
         e.preventDefault();
         limpiarTabla();
         var table = document.getElementById("tabla");
-        var nombre = document.getElementById("nombreCliente").value;
-        var apellido = document.getElementById("apellidoCliente").value;
-        var correo = document.getElementById("correoCliente").value;
-        var estado =""
-        var parteUrlConEstado = ""
-        if($('#estadoCheckBox').is(":checked")){
-            estado = parseInt($("#estadoCliente").val())
-            parteUrlConEstado =`&estado=${estado}`
-
-        }
-
+        var NombreExtinto = document.getElementById("NombreExtinto").value;
+        var ApellidoExtinto = document.getElementById("ApellidoExtinto").value;
+        var FechaFallecimiento = document.getElementById("FechaFallecimiento").value;
+        
         $.ajax({
-            url: `http://localhost:5001/api/Cliente?Nombre=${nombre}&Apellido=${apellido}&Correo=${correo}`+parteUrlConEstado,
+            url: `http://localhost:5001/api/FichaSepelio?NombreExinto=${NombreExinto}&ApellidoExtinto=${ApellidoExtinto}&FechaFallecimiento=${FechaFallecimiento}`,
             method: 'GET'
         }).done(function (respuesta) {
             $.each(respuesta, function (index, value) {
@@ -151,7 +140,7 @@
 
     const getTodosLosClientes = ()=>{
         $.ajax({
-            url: "https://localhost:5001/api/Cliente",
+            url: "https://localhost:5001/api/FichaSepelio",
             method: 'GET'
         }).done(function (respuesta) {
             $.each(respuesta, function (index, value) {

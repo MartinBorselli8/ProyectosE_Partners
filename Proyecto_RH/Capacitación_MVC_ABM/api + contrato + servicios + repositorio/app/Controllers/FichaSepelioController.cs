@@ -24,7 +24,7 @@ namespace capacitacion.Controllers
         public async Task<IActionResult> Get([FromQuery] SolicitudObtener solicitud)
         {
             var fichas = await _servicioFichaSepelio.Obtener(solicitud);
-            return Ok(fichas);
+            return Ok(fichas.Fichas);
         }
 
         [HttpDelete]

@@ -174,7 +174,9 @@
         $.ajax({
             url: "https://localhost:5001/api/Cliente",
             method: 'GET'
+            
         }).done(function (respuesta) {
+            
             $.each(respuesta, function (index, value) {
                 renderTabla(value);
             });

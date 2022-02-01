@@ -111,6 +111,7 @@ namespace servicio
             var respuesta_servicio = await _repositorioFichaSepelio.Buscar(predicado);
             respuesta.Fichas = respuesta_servicio.Select(c => new FichaSepelio()
             {
+                Id= c.Id,
                 NombreExtinto = c.NombreExtinto,
                 ApellidoExtinto = c.ApellidoExtinto,
                 DNIExtinto = c.DNIExtinto,

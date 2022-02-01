@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\web.csproj",
+  "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,63 +15619,63 @@
   "RootNamespace": "web",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Cliente\\Consulta.cshtml",
-      "TargetPath": "Views\\Cliente\\Consulta.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\FichaSepelio\\Agregar.cshtml",
-      "TargetPath": "Views\\FichaSepelio\\Agregar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\FichaSepelio\\Consulta.cshtml",
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\FichaSepelio\\Consulta.cshtml",
       "TargetPath": "Views\\FichaSepelio\\Consulta.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Cliente\\Editar.cshtml",
-      "TargetPath": "Views\\Cliente\\Editar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Cliente\\Agregar.cshtml",
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Cliente\\Agregar.cshtml",
       "TargetPath": "Views\\Cliente\\Agregar.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\FichaSepelio\\Editar.cshtml",
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\FichaSepelio\\Editar.cshtml",
       "TargetPath": "Views\\FichaSepelio\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Cliente\\Consulta.cshtml",
+      "TargetPath": "Views\\Cliente\\Consulta.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Cliente\\Editar.cshtml",
+      "TargetPath": "Views\\Cliente\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\FichaSepelio\\Agregar.cshtml",
+      "TargetPath": "Views\\FichaSepelio\\Agregar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

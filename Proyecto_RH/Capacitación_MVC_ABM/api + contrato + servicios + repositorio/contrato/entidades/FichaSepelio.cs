@@ -5,7 +5,7 @@ namespace contrato.entidades
 {
     public class FichaSepelio
     {
-        public int id {get; set;}
+        public int Id {get; set;}
         // [Required]
         // [MinLength(3)]
         public string NombreExtinto { get; set; }

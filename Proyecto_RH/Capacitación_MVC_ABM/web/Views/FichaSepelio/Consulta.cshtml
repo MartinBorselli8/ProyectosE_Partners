@@ -30,7 +30,6 @@
 <br>
 
 </form>
-    
 
 <button id="btnSubmit" type="submit" class="btn btn-primary mb-2">Buscar</button>
 
@@ -43,7 +42,7 @@
             <th scope="col">#</th>
             <th scope="col">Nombre extinto</th>
             <th scope="col">Apellido extinto</th>
-            <th scope="col">FechaFallecimiento</th>
+            <th scope="col">Fecha Fallecimiento</th>
             <th scope="col">Acciones</th>
         </tr>
     </thead>
@@ -65,11 +64,12 @@
     }
 
     const renderTabla = (value)=>{
+            debugger;
             $("#cuerpo-tabla").append(`<tr>        
                 <th scope="row">${value.id}</th>
-                 <td>${value.NombreExinto}</td> 
-                 <td>${value.ApellidoExtinto}</td> 
-                 <td>${value.FechaFallecimiento}</td> 
+                 <td>${value.nombreExtinto}</td> 
+                 <td>${value.apellidoExtinto}</td> 
+                 <td>${value.fechaFallecimiento}</td> 
                 <td>
                 <button onclick="eliminar(${value.id});" id="btnEliminar"  class="btn btn-danger">Eliminar</button>
                     <a id="btnEditar"  class="btn btn-info" href="/Cliente/Editar?id=${value.id}" >Editar</a>
@@ -106,7 +106,7 @@
                 deleteFicha(id);
                 Swal.fire(
                     '¡Eliminado!',
-                    'El registro se eliminó cone éxito.',
+                    'El registro se eliminó con éxito.',
                     'success'
                 )
             }
@@ -119,13 +119,14 @@
     const buscarFichas = (e)=>{
         e.preventDefault();
         limpiarTabla();
+        debugger;
         var table = document.getElementById("tabla");
-        var NombreExtinto = document.getElementById("NombreExtinto").value;
-        var ApellidoExtinto = document.getElementById("ApellidoExtinto").value;
-        var FechaFallecimiento = document.getElementById("FechaFallecimiento").value;
+        var Nombre = document.getElementById("NombreExtinto").value;
+        var Apellido = document.getElementById("ApellidoExtinto").value;
+        var Fecha= document.getElementById("FechaFallecimiento").value;
         
         $.ajax({
-            url: `http://localhost:5001/api/FichaSepelio?NombreExinto=${NombreExinto}&ApellidoExtinto=${ApellidoExtinto}&FechaFallecimiento=${FechaFallecimiento}`,
+            url: `http://localhost:5001/api/FichaSepelio?NombreExtinto=${Nombre}&Apellido=${Apellido}&FechaFallecimiento=${Fecha}`,
             method: 'GET'
         }).done(function (respuesta) {
             $.each(respuesta, function (index, value) {
@@ -138,11 +139,12 @@
 
     }
 
-    const getTodosLosClientes = ()=>{
+    const getTodasLasFichas = ()=>{
         $.ajax({
             url: "https://localhost:5001/api/FichaSepelio",
             method: 'GET'
         }).done(function (respuesta) {
+            debugger;
             $.each(respuesta, function (index, value) {
                 renderTabla(value);
             });
@@ -150,10 +152,8 @@
             console.log("ERROR!");
         });
     }
-
     
-
-    $("#btnSubmit").click( (e)=>buscarClientes(e))
-    $(document).ready(getTodosLosClientes());
+    $("#btnSubmit").click( (e)=>buscarFichas(e))
+    $(document).ready(getTodasLasFichas());
 </script>
 }

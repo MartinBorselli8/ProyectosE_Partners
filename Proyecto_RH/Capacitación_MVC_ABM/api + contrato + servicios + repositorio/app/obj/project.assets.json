@@ -7050,24 +7050,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\capacitacion.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\capacitacion.csproj",
       "projectName": "capacitacion",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\capacitacion.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\obj\\",
+      "projectPath": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\capacitacion.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\app\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7081,14 +7076,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj"
+            "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\contrato\\contrato.csproj"
             },
-            "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\dominio\\dominio.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\dominio\\dominio.csproj"
+            "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\dominio\\dominio.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\dominio\\dominio.csproj"
             },
-            "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\servicio\\servicio.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\servicio\\servicio.csproj"
+            "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\servicio\\servicio.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\OneDrive\\Documents\\GitHub\\ProyectosE_Partners\\Proyecto_RH\\Capacitación_MVC_ABM\\api + contrato + servicios + repositorio\\servicio\\servicio.csproj"
             }
           }
         }
@@ -7134,7 +7129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
